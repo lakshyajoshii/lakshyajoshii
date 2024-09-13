@@ -2,8 +2,7 @@
 👩🏻‍💻 Electronics Engineer sharing about my journey and learnings in tech<br/>
 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2024/07/scifi/)!<br/>
 
-[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyajoshii&theme=synthwave)](https://github.com/lakshyajoshii/github-readme-stats)
-
+![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyajoshii&show_icons=true&theme=radical)
 ### 💻 Tech Stack
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br/>
