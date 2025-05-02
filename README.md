@@ -34,7 +34,3 @@
 - Enthusiastic about AOSP debugging and feature improvement
 
 ---
-
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshyajoshii)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshyajoshii)
