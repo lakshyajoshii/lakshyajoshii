@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lakshya Joshi
 
-**Backend Developer | Web3 & Blockchain Engineer **
+**Backend Developer | Web3 & Blockchain Engineer**
 
 I build **scalable backend systems**, **RESTful APIs**, and **blockchain-based applications** with a strong focus on performance, security, and clean architecture.  
 Experienced in **server-side development**, **Web3 integrations**, and **decentralized systems**.
